@@ -8,13 +8,18 @@
 
 <br/>
 
-Recent computing science honours grad who's shipped production code across mobile, web, and backend. That ranges from compliance-grade enterprise apps to applied AI research pipelines.
+Recent computing science honours grad with production experience across mobile, web,
+and backend — from compliance-grade enterprise apps to applied AI research pipelines.
 
 [Portfolio](https://pragya-portfolio-xi.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/pragya-d-a8395a2a7) &nbsp;·&nbsp; [Email](mailto:pragyadas2394@gmail.com)
 
 ---
 
 𝚂𝚃𝙰𝙲𝙺
+
+**AI & ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Azure_GPT--4o-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 **Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,6 +34,7 @@ Recent computing science honours grad who's shipped production code across mobil
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -38,6 +44,7 @@ Recent computing science honours grad who's shipped production code across mobil
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-044A64?style=for-the-badge&logo=sqlite&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
 **Infrastructure & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -56,10 +63,9 @@ Recent computing science honours grad who's shipped production code across mobil
 
 | Project | Description |
 |---|---|
-| [FieldNotes AI](https://pragya-portfolio-xi.vercel.app) | AI-assisted field documentation for social workers |
-| [MCP Tool-Calling Benchmark](https://github.com/CMPUT469/T8-CtrlAltElite) | LLM evaluation research with National Bank of Canada |
-| [InterLink](https://github.com/pragya444/Social-distribution-WebApp) | Distributed social web app with ActivityPub-inspired federation |
-| [Sentio](https://github.com/pragya444/Sentio-Mood-Tracking-App) | Mood tracking mobile app with real-time social features |
-| [Image Classifier](https://github.com/pragya444/Image-Classifier) | Deep learning flower classifier using PyTorch |
-
+| [FieldNotes AI](https://pragya-portfolio-xi.vercel.app) | Cross-platform field documentation app for social workers with on-device transcription, AI form auto-fill, offline sync, and FOIP/HIA/PIPA-compliant architecture |
+| [MCP Tool-Calling Benchmark](https://github.com/CMPUT469/T8-CtrlAltElite) | University research project evaluating 4 open-source LLMs on MCP tool use across 193 tasks, with domain guidance from National Bank of Canada and a custom path-efficiency metric |
+| [InterLink](https://github.com/pragya444/Social-distribution-WebApp) | Federated social platform with ActivityPub-inspired node communication, built in Django and PostgreSQL; led frontend and full Heroku deployment |
+| [Sentio](https://github.com/pragya444/Sentio-Mood-Tracking-App) | Android mood-tracking app with social graph, geolocated mood maps, real-time chat, and mood analytics, built in Java and Firebase |
+| [Image Classifier](https://github.com/pragya444/Image-Classifier) | PyTorch transfer learning classifier for 102 flower species using VGG16, with a CLI for training and inference. Udacity AI nanodegree capstone |
 
