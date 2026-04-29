@@ -8,8 +8,7 @@
 
 <br/>
 
-Recent computing science honours grad with production experience across mobile, web,
-and backend — from compliance-grade enterprise apps to applied AI research pipelines.
+Recent computing science honours grad who turns client vision into reliable, production-ready software. From compliance-grade production apps to applied LLM research, I work across mobile, web, and AI.
 
 [Portfolio](https://pragya-portfolio-xi.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/pragya-d-a8395a2a7) &nbsp;·&nbsp; [Email](mailto:pragyadas2394@gmail.com)
 
