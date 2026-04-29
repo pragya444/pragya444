@@ -65,7 +65,7 @@ and backend — from compliance-grade enterprise apps to applied AI research pip
 |---|---|
 | [FieldNotes AI](https://pragya-portfolio-xi.vercel.app) | Cross-platform client intake app for frontline social workers with on-device transcription, AI form auto-fill, offline sync, and FOIP/HIA/PIPA-compliant architecture |
 | [MCP Tool-Calling Benchmark](https://github.com/CMPUT469/T8-CtrlAltElite) | Research project evaluating 4 open-source LLMs on MCP tool use across 193 tasks, with a custom path-efficiency metric and domain expert guidance from [Tony Yousefnezhad](https://www.linkedin.com/in/myousefnezhad/), Sr. Data Scientist at National Bank of Canada |
-| [InterLink](https://github.com/pragya444/Social-distribution-WebApp) | Federated social platform with ActivityPub-inspired node communication, built in Django and PostgreSQL; led frontend and full Heroku deployment |
+| [InterLink](https://github.com/pragya444/Social-distribution-WebApp) | Federated social platform with ActivityPub-inspired node communication, built in Django and PostgreSQL and deployed at Heroku; led frontend |
 | [Sentio](https://github.com/pragya444/Sentio-Mood-Tracking-App) | Android mood-tracking app with social graph, geolocated mood maps, real-time chat, and mood analytics, built in Java and Firebase |
 | [Image Classifier](https://github.com/pragya444/Image-Classifier) | PyTorch transfer learning classifier for 102 flower species using VGG16, with a CLI for training and inference. Udacity AI nanodegree capstone |
 
